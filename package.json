@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jmo927/bamazon.git"
+    "url": "git+https://github.com/rtswartz/bamazon"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jmo927/bamazon/issues"
+    "url": "https://github.com/rtswartz/bamazon/issues"
   },
-  "homepage": "https://github.com/jmo927/bamazon#readme",
+  "homepage": "https://github.com/rtswartz/bamazon#readme",
   "dependencies": {
     "console.table": "^0.10.0",
     "inquirer": "^6.2.0",

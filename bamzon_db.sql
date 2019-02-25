@@ -17,15 +17,15 @@ CREATE TABLE products(
 
 
 INSERT INTO products (product_name, department_name, price, product_stock) VALUES 
-	("Bananas", "Grocery", 1.00, 50),
-    ("Bread", "Grocery", 2.50, 20),
-    ("Beer (6-pack)", "Alcohol", 7.50, 15),
-    ("Bourbon", "Alcohol", 25, 10),
-    ("Baja Red Wine", "Alcohol", 10, 10),
-    ("Bicycle", "Sports", 500, 3),
-    ("Before Sunrise (Blu-Ray)", "Movies", 15, 100),
-    ("Blu-Ray Player", "Electronics", 50, 5),
-    ("Bohemian Rhapsody (Blu-Ray)", "Movies", 25, 100),
-    ("Birkenstocks", "Clothing", 100, 2);
+	("Peanut Butter Crunch", "Grocery", 1.00, 50),
+    ("Iron Kids White", "Grocery", 2.50, 20),
+    ("Coors Light (6-pack)", "Alcohol", 7.50, 15),
+    ("Tito's Vodka", "Alcohol", 25, 10),
+    ("Merlot", "Alcohol", 10, 10),
+    ("Basketball Hoop", "Sports", 500, 3),
+    ("The Matrix Triology", "Movies", 15, 100),
+    ("Nintendo Switch", "Electronics", 450, 5),
+    ("Clerks 1 & 2", "Movies", 25, 100),
+    ("Kobe VI's", "Clothing", 100, 2);
 
 SELECT * FROM products;

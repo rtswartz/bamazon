@@ -26,7 +26,7 @@ const managerView = () => {
     inquirer.prompt([
         {
             type: "rawlist",
-            message: "What would you like to do?",
+            message: "Manager - Please select Task Below?",
             name: "whichChoice",
             choices: ["View Products", "View Low Inventory", "Add Inventory", "Add Product"]
         }
